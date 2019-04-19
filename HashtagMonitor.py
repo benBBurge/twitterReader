@@ -1,6 +1,6 @@
-#Filter for only links an rt?
-#we'll want the linked content in it's own field
-#starfish attendance for twitter!!!  Tunnel vision bot mode disactivated
+#Benjamin B. Burge
+#V1 - 4/19/19
+#Capstone Project
 
 import json
 import tweepy
