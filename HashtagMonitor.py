@@ -47,8 +47,8 @@ sheet = gc.open('NNDI Tweet Log').sheet1
 
 
 #API key goes here:
-auth = tweepy.OAuthHandler('gBfPYG8hct9unsDXoTzMorRi6', 'IyUOsoL3WlQBa5RktPvt5HN7TePlnA46SgpQ9YlKa15DjoTsdL')
-auth.set_access_token('1116719949836369920-5G4kARf5aOu340DyxOWymNxUMkI4I3', 'mhzY4P7xUwyJruCgse5moVDW4R9i70IJaE4hwrGp5vinA')
+auth = tweepy.OAuthHandler('naa', 'nope')
+auth.set_access_token('no', 'uh ah')
 
 api = tweepy.API(auth)
 
